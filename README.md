@@ -10,7 +10,3 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/aQxmbqk6qf"><img src="https://vgtimes.ru/uploads/posts/2018-08/50569_1_1.jpg" width="20" height="20"></a>
-</p>
-
